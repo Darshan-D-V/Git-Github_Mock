@@ -1,0 +1,1 @@
+print("f1.py is creayed in main")
